@@ -79,7 +79,7 @@ out of that.
 My next job
 ---
 
-1. **My next job will be a highly technical, but balanced, gig in data science for policy.**  The field of data science
+- **My next job will be a highly technical, but balanced, gig in data science for policy.**  The field of data science
   has recently been dominated by models that predict well and don't do a whole lot else.  I'm looking forward to pushing
   toward more interpretability, which is the primary concern for policy makers.  My work with the Chicago Alliance to
   End Homelelssness focused solely on data science for policy, and techniques to tell coherent, useful, and accurate
