@@ -5,7 +5,7 @@ title: "On Funemployment (and My Next Job)"
 On Funemployment (and My Next Job)
 ===
 
-*Isaac Hollander McCreery, 31 August 2014*
+*Isaac Hollander McCreery, 5 September 2014*
 
 The inspiration for this post comes from Ernie Miller's
 [post of the same name](http://erniemiller.org/2013/09/07/on-funemployment-and-my-next-job/).
