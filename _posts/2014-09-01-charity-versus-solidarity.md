@@ -1,5 +1,5 @@
 ---
-title: "Charity versus Solidarity: Follow the Power"
+title: "Charity Versus Solidarity: Follow the Power"
 ---
 
 Charity versus Solidarity: Follow the Power
