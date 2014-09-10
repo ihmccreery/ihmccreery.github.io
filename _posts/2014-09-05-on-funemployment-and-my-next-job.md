@@ -84,8 +84,9 @@ My next job
   toward more interpretability, which is the primary concern for policy makers.  My work with the Chicago Alliance to
   End Homelelssness focused solely on data science for policy, but I found that techniques to tell coherent, useful, and
   accurate stories are hard to come by.  We need those techniques, though, if we're going to start making data talk for
-  good and not just for profit.  I'll be in a place where I get to do some hard technical work, building models and
-  wrestling with data, but where I also get to deliver stories from that data, and do other writing.
+  good and not just for profit.  I'll be in a place where I get to do some hard technical work, building models,
+  wrestling with data, and innovating new ways to use computation for policy, but where I also get to deliver stories
+  from that data, and do other writing.
 - **I'll feel like the dumbest person in my next team.**  If I learned one thing this summer, it's how much I
   still have to learn about data science, (and statistics in particular).  I have a strong background in theoretical
   computer science and math, and a reasonable background in systems and software engineering.  But the field of data
