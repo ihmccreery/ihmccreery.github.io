@@ -9,7 +9,7 @@ Tracking the Paths of Homelessness
 
 *"We believe that ending homelessness is possible and that, in Chicago, everyone should have a home."* - [Chicago's Plan 2.0: A Home for Everyone](http://www.cityofchicago.org/city/en/depts/fss/supp_info/plan_to_homelessness.html)
 
-![The DSSG team who worked with the Chicago Alliance to End Homelessness](media/homelessness/team.png)
+![The DSSG team who worked with the Chicago Alliance to End Homelessness]({{ site.url }}/media/homelessness/team.png)
 
 ##Problem definition
 
@@ -19,7 +19,7 @@ With so many organizations providing different services around the city, all in 
 
 Most importantly, we are evaluating the effectiveness of different program models in order to inform CoC planning activities.  We are not looking at individual service providers; rather, we are considering trends across the different kinds of programs they provide.  Primarily, we are investigating different housing program types, including permanent supportive housing, interim and transitional housing, emergency shelter, and other strategies.
 
-![The housing inventory in Chicago](media/homelessness/inventory.png)
+![The housing inventory in Chicago]({{ site.url }}/media/homelessness/inventory.png)
 *From Chicago's Plan 2.0: A Home For Everyone*
 
 Moving more in-depth, we hope to provide accessible, intuitive insight into what paths people take through the Continuum of Care.  What kinds of people are likely to succeed in what kinds of programs, where do people come from, and where do people go after they finish a program?  Furthermore, many people enter and reenter into housing programs, and our partner wants to know what patterns exist and how people move through the system over time.
@@ -42,7 +42,7 @@ For example, we expect to see that family size and composition are important fac
 
 The Chicago Alliance has given us anonymized, individual-level data from the last 15 or so years.  All of the organizations in the Chicago Continuum of Care keep track of cases in the Homeless Information Management System, or HMIS.  HMIS has a record for each service any person received with information about the person, including some demographic data.
 
-![Point-in-time counts of homelessness in Chicago](media/homelessness/pitcs.png)
+![Point-in-time counts of homelessness in Chicago]({{ site.url }}/media/homelessness/pitcs.png)
 *Homeless population in Chicago from point-in-time counts, 2005 - 2013*
 
 So, for every time anyone has recieved a service, there's a corresponding entry in HMIS...at least, in theory.  The data going back a decade and a half has lots of missing, and often contradictory, information.  However, in September of 2012, HMIS management was taken over by the Chicago Alliance, and data quality improved dramatically.  We decided with our partner to restrict our analysis to the last two years.  But we are still incorporating legacy data in order to enrich the more current data by looking at, for example, the first record of a client interacting with the Continuum of Care.
@@ -65,23 +65,23 @@ Our initial model for housing stability, a random forest, had mediocre performan
 
 We got a chance to build some initial visualizations for our partner, too.  One of the key questions they had came from a report done last year, with diagrams like these:
 
-![Paths to interim housing](media/homelessness/homeless-report1.png)
+![Paths to interim housing]({{ site.url }}/media/homelessness/homeless-report1.png)
 
-![Paths from interim housing](media/homelessness/homeless-report2.png)
+![Paths from interim housing]({{ site.url }}/media/homelessness/homeless-report2.png)
 
 These diagrams show what percentages of people entering and exiting different programs were coming from and going to different places.  However, they don't show, of the people exiting to a particular place, how many of them were entering from a particular situation.  We don't know if most people are exiting to the same place they came from:
 
-![Do most people end up where they came from?](media/homelessness/stay.png)
+![Do most people end up where they came from?]({{ site.url }}/media/homelessness/stay.png)
 
 Or if they are exiting to different places:
 
-![Or somewhere else?](media/homelessness/cross.png)
+![Or somewhere else?]({{ site.url }}/media/homelessness/cross.png)
 
 They were also just hard to read, because there were no visual cues, only numbers, to indicate common paths.
 
 After spending an afternoon discussing what visualizations might be appropriate for this, we settled on building [Sankey diagrams](http://en.wikipedia.org/wiki/Sankey_diagram).  These diagrams are great for showing flows through a network, which is roughly what we're doing.  We'll also be generating crosstabs with the same information, but Sankeys are particularly easy to understand.  Below, you can see how people in different housing program types end up stably or unstably housed.  People in permanent housing programs have a very high rate of housing stability, whereas people in short-term housing programs have a much lower rate of housing stability:
 
-![Where do people end up after different housing programs?](media/homelessness/sankey.png)
+![Where do people end up after different housing programs?]({{ site.url }}/media/homelessness/sankey.png)
 
 In the coming weeks, we'll be using the models we're generating to inform what kinds of predictors we should be particularly concerned about in this system.  Does age matter, or is it really prior living situation that's more important?  Or, maybe it's a combination of the two with other factors as well.  In the coming weeks, we'll be generating smarter visualizations informed by our model, and we hope to have more important findings.
 
