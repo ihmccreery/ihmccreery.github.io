@@ -1,4 +1,11 @@
-*By way of introduction: my friend and colleague David Tisel wrote this essay and published it on Facebook this spring, and it circled around many of our friends for a few weeks.  It still comes up in conversation pretty regularly.  David left Oberlin a year before I did, and just after many friends and I had walked the stage, this nudged its way into my inbox, (really, David, your timing was perfect).  I'm really excited to have the honor of publishing it here.*
+---
+title: "Building Community in an Age of Mobility"
+---
+
+Preface
+---
+
+My friend and colleague David Tisel wrote this essay and published it on Facebook this spring, and it circled around many of our friends for a few weeks.  It still comes up in conversation pretty regularly.  David left Oberlin a year before I did, and just after many friends and I had walked the stage, this nudged its way into my inbox, (really, David, your timing was perfect).  I'm really excited to have the honor of publishing it here.*
 
 Building Community in an Age of Mobility
 ===
@@ -17,7 +24,7 @@ So I’m in an age—and at an age—when mobility is the norm.
 
 It’s easy to feel isolated in a flurry of mobility. My craving for connectedness, coupled with my desire to experience different places creates what philosophers call a dilemma, or problem. If I "settle down," I can put down roots and "really feel connected," but then I’d be "missing out" on "experiencing the world." Is there a way out of this dilemma? Can you have your cake and eat it too? I don’t know but I like cake.
 
-![Friends]({{ site.url }}/media/building-community-in-an-age-of-mobility/friends1.png)
+![Friends]({{ site.url }}/media/building-community-in-an-age-of-mobility/friends1.jpg)
 
 Things that I have done to build community
 ---
@@ -54,7 +61,7 @@ One thing that’s been a challenge is to find people to play music with. I play
 
 Greyhound. Megabus. Bolt Bus. Amtrak. Marc Train. There’s alot of places you can go for cheap. I’ve had a great time exploring U.S. cities with friends who live there, and showing friends around in D.C.
 
-![More friends]({{ site.url }}/media/building-community-in-an-age-of-mobility/friends2.png)
+![More friends]({{ site.url }}/media/building-community-in-an-age-of-mobility/friends2.jpg)
 
 Doing social justice work in a place that "isn’t yours"
 ---
@@ -82,7 +89,7 @@ I think, again, it all depends on how you do it. If you’re an organizer, are y
 
 There’s a side question of the ethics of claiming a neighborhood as "yours" even though you haven’t been there that long. I personally believe that my new neighborhood is "my neighborhood" and I’m working to make it better. I don’t think this necessarily comes at the expense of longtime residents also claiming this as their neighborhood. I think it would be hard to do good work for social justice without feeling connected to the place you’re doing it, even if you’re not originally from there. It all gets back to building community in an age of mobility.
 
-![Even more friends]({{ site.url }}/media/building-community-in-an-age-of-mobility/friends3.png)
+![Even more friends]({{ site.url }}/media/building-community-in-an-age-of-mobility/friends3.jpg)
 
 Making life plans
 ---
@@ -104,6 +111,6 @@ I think my biggest challenge and lesson from this last year is to expand my time
 
 One good thing about building community in an age of mobility is that there’s always a chance that you could be reunited. So here’s to seeing you again. You’re always welcome in my home, wherever that is.
 
-![Pizza]({{ site.url }}/media/building-community-in-an-age-of-mobility/pizza.png)
+![Pizza]({{ site.url }}/media/building-community-in-an-age-of-mobility/pizza.jpg)
 
 (1) Although it is true that all fathers are sons, not every son is a father.
