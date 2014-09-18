@@ -5,7 +5,7 @@ title: "Building Community in an Age of Mobility"
 Preface
 ---
 
-My friend and colleague David Tisel wrote this essay and published it on Facebook this spring, and it circled around many of our friends for a few weeks.  It still comes up in conversation pretty regularly.  David left Oberlin a year before I did, and just after many friends and I had walked the stage, this nudged its way into my inbox, (really, David, your timing was perfect).  I'm really excited to have the honor of publishing it here.*
+My friend and colleague David Tisel wrote this essay and published it on Facebook this spring, and it circled around many of our friends for a few weeks.  It still comes up in conversation pretty regularly.  David left Oberlin a year before I did, and just after many friends and I had walked the stage, this nudged its way into my inbox, (really, David, your timing was perfect).  I'm really excited to have the honor of publishing it here.
 
 Building Community in an Age of Mobility
 ===
