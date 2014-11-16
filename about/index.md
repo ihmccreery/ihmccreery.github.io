@@ -2,7 +2,7 @@
 layout: page
 ---
 
-About Robots with Hearts
+Here
 ---
 
 Robots with Hearts is a blog about technology & society.  It's a space for art and non-art: poetry, fiction, essays, and

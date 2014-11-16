@@ -4,12 +4,17 @@ layout: default
 
 <div class="home">
 
-  <a href="{{ "/about/" | prepend: site.baseurl }}"><p>Robots with Hearts is a blog about technology & society. It’s a
-  space for art and non-art: poetry, fiction, essays, and visual art. Some of the work here focuses only on technology
-  or society, but a lot of it interrogates how they relate. Most of it is my own, but I also commission and accept
-  work from others.</p></a>
 
   <ul class="post-list">
+    <li>
+      <span class="post-meta">Always</span>
+      <h2>
+        <a class="post-link" href="{{ "/about/" | prepend: site.baseurl }}">Here</a>
+      </h2>
+      <p>Robots with Hearts is a blog about technology & society. It’s a space for art and non-art: poetry, fiction,
+      essays, and visual art. Some of the work here focuses only on technology or society, but a lot of it interrogates
+      how they relate. Most of it is my own, but I also commission and accept work from others.</p>
+    </li>
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span>
