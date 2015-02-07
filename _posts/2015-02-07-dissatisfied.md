@@ -14,7 +14,7 @@ And all his handsom brothers.
 
 I want friends who will push drugs on me  
 Love, alcohol, ambition, coffee ...  
-Then {whisk} them away from me  
+Then wrest them away from me  
 With tenderness and compassion.
 
 Because life and love are simple, really:  
