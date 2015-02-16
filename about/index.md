@@ -5,22 +5,21 @@ layout: page
 Here
 ---
 
-Robots with Hearts is a blog about technology & society.  It's a space for art and non-art: poetry, fiction, essays, and
-visual art.  Some of the work here focuses only on technology or society, but a lot of it interrogates how they relate.
-Most of it is my own, but I also commission and accept work from others.
+Robots with Hearts is a blog about society.  It's a space for art and non-art: poetry, fiction, essays, and
+visual art.  Most of it is my own, but I also commission and accept work from others.
 
 Who I am and what I do
 ---
 
 My name is Isaac Hollander McCreery.  Most people call me Ike.
 
-I am a scholar, activist, software developer, and recent graduate of Oberlin College in Oberlin, OH.  My research
+I am a scholar, activist, software engineer, and recent graduate of Oberlin College in Oberlin, OH.  My research
 interests lie primarily at the convergence of the social and formal sciences.  Most recently, I have worked
 as a Data Science Fellow at the University of Chicago.  You can find my resume
 [here]({{ site.baseurl }}/isaac_hollander_mccreery_resume.pdf).
 
 Outside of work, I like being outside and using my body.  I love meeting people, and I enjoy philosophical discussion
-but for the most part don't like small talk [1].  I wish I read more, and often trust friends who are more booksworms
+but for the most part don't like small talk [1].  I wish I read more, and often trust friends who are more bookworms
 than I am to fill me in on what they're learning.
 
 ### Research Interests
