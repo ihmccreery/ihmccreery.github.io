@@ -5,7 +5,7 @@ layout: page
 Here
 ---
 
-Robots with Hearts is a blog about society.  It's a space for art and non-art: poetry, fiction, essays, and
+*Robots with Hearts* is a blog about society.  It's a space for art and non-art: poetry, fiction, essays, and
 visual art.  Most of it is my own, but I also commission and accept work from others.
 
 Who I am and what I do
