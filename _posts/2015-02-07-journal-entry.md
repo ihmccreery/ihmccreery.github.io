@@ -9,7 +9,7 @@ Journal Entry: Commentary on My Writing, and on the Future of *Robots with Heart
 
 Well, it's been a while since I've written.  Two months, in fact, at least since I last published.  I think I burnt myself out a bit writing [the Big Articulation]({{ site.baseurl }}/2014/12/03/the-big-articulation.html): it took a solid month to get from idea to finished essay, and by that time, I was just about ready to be done with writing for a while.  It's time I get back to it, though, and so here I am, churning out [a quick poem]({{ site.baseurl }}/2015/02/07/dissatisfied.html). I feel inspired to write and moved to start on some projects that have been swirling around my head recently.
 
-Commentary on Dissatisfied
+Commentary on *Dissatisfied*
 ---
 
 Here's the poem again, for reference:
