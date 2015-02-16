@@ -14,25 +14,23 @@ Commentary on Dissatisfied
 
 Here's the poem again, for reference:
 
-I want friends who will cry with me  
+> I want friends who will cry with me  
 And with whom I can cry;  
 Who will come with me to confront Lord Death  
 And all his handsom brothers.  
   
-I want friends who will push drugs on me  
+> I want friends who will push drugs on me  
 Love, alcohol, ambition, coffee ...  
 Then wrest them away from me  
 With tenderness and compassion.  
   
-Because life and love are simple, really:  
+> Because life and love are simple, really:  
 They are full, that's all.  
   
-Won't you come cry with me?  
+> Won't you come cry with me?  
 I want to see tears on your face, and feel tears on mine.  
 Won't you come tear me from my clothes?  
 I want to feel your skin, and see my skin reflected on yours.
-
----
 
 Last year, I spent a lot of time polishing my writing before I published it.  I would write an outline, flesh it out, draft once, draft again, polish, revise, polish again, then publish.  While I think that process is great for getting the best product, and is a process I need to practice, it's an intimidating process, too, and one that I think has stifled my writing, since I don't always want to spend 30 hours on an essay.  Sometimes—quite often, actually—I just have an idea, and I want to write it down.
 
