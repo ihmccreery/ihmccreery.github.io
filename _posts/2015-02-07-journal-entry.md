@@ -1,5 +1,5 @@
 ---
-title: "Journal Entry: Commentary on My Writing, and on the <emph>Future of Robots with Hearts</emph>"
+title: "Journal Entry: Commentary on My Writing, and on the <i>Future of Robots with Hearts</i>"
 ---
 
 Journal Entry: Commentary on My Writing, and on the Future of *Robots with Hearts*
