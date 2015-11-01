@@ -13,13 +13,13 @@ Who I am and what I do
 
 My name is Isaac Hollander McCreery.  Most people call me Ike.
 
-I am a scholar, activist, software engineer, and recent graduate of Oberlin College in Oberlin, OH.  My research
-interests lie primarily at the convergence of the social and formal sciences.  Most recently, I have worked
-as a Data Science Fellow at the University of Chicago.  You can find my resume
-[here]({{ site.baseurl }}/isaac_hollander_mccreery_resume.pdf).
+I am a scholar, activist, and software engineer.  I recently graduated from Oberlin College in Oberlin, OH, and I now
+work at Google as a software engineer on [Kubernetes](http://kubernetes.io/) [1].  My research interests lie primarily at
+the convergence of the social and formal sciences.  Most recently, I have worked as a Data Science Fellow at the
+University of Chicago.  You can find my resume [here]({{ site.baseurl }}/isaac_hollander_mccreery_resume.pdf).
 
 Outside of work, I like being outside and using my body.  I love meeting people, and I enjoy philosophical discussion
-but for the most part don't like small talk [1].  I wish I read more, and often trust friends who are more bookworms
+but for the most part don't like small talk [2].  I wish I read more, and often trust friends who are more bookworms
 than I am to fill me in on what they're learning.
 
 ### Research Interests
@@ -50,5 +50,8 @@ leverage computation to reason about systems that are too complex for humans to 
 
 In all of this work, I aim to push society away from domination in all its forms and toward justice and equity.
 
-[1] That is, between humans, not to be confused with the language [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk),
+[1] Robots with Hearts is a personal project of mine, and the views I express here are my own and in no way represent
+those of Google or anyone else other than myself.
+
+[2] That is, between humans, not to be confused with the language [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk),
 about which I have no strong negative feelings.
