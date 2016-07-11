@@ -1,8 +1,8 @@
 ---
-title: "My decision to leave Google"
+title: "My Decision to Leave Google"
 ---
 
-My decision to leave Google
+My Decision to Leave Google
 ===
 
 *Isaac Hollander McCreery, 11 July 2016*
