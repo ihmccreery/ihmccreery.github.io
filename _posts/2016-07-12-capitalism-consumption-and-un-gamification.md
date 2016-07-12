@@ -1,3 +1,7 @@
+---
+title: "Capitalism, Consumption, and Un-Gamification: Passing Thoughts on Wealth Accumulation"
+---
+
 Capitalism, Consumption, and Un-Gamification: Passing Thoughts on Wealth Accumulation
 ===
 
