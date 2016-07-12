@@ -30,5 +30,3 @@ So with all of the research going into effective gamification, what I want to kn
 (1) Over the past few years, I've learned to all but turn off my ears after people learn that I know how to write code: "Oh, cool!  So I have this great idea.  It's an app, see, and..."
 
 (2) Bacon cheeseburgers are reasonable, I suppose; chocolate-covered bacon is questionable.  [Bacon Soda](http://www.baconfreak.com/bacon-soda.html) definitely seems to me like something we could live without.
-
-Angela Davis, Jacobin article, police bunker info
