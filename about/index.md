@@ -3,7 +3,7 @@ layout: page
 ---
 
 Here
----
+===
 
 *Robots with Hearts* is a blog about society.  It's a space for art and non-art: poetry, fiction, essays, and
 visual art.  Most of it is my own, but I also commission and accept work from others.
@@ -13,14 +13,22 @@ Who I am and what I do
 
 My name is Isaac Hollander McCreery.  Most people call me Ike.
 
-I am a scholar, activist, and software engineer.  I recently graduated from Oberlin College in Oberlin, OH, and I now
-work at Google as a software engineer on [Kubernetes](http://kubernetes.io/) [1].  My research interests lie primarily at
-the convergence of the social and formal sciences.  Most recently, I have worked as a Data Science Fellow at the
-University of Chicago.  You can find my resume [here]({{ site.baseurl }}/isaac_hollander_mccreery_resume.pdf).
+I am a community organizer, scholar, and ex-software engineer.  I recently graduated from Oberlin College in Oberlin,
+OH, and I most recently worked work at Google as a software engineer on [Kubernetes](http://kubernetes.io/) [1].  My
+research interests lie primarily at the convergence of the social and formal sciences.  Two years ago, I worked as a
+Data Science Fellow at the University of Chicago.  You can find my resume [here]({{ site.baseurl
+}}/isaac_hollander_mccreery_resume.pdf).
 
-Outside of work, I like being outside and using my body.  I love meeting people, and I enjoy philosophical discussion
-but for the most part don't like small talk [2].  I wish I read more, and often trust friends who are more bookworms
-than I am to fill me in on what they're learning.
+Outside of work, I like using my mind, heart, and body.  I love meeting people, and I enjoy philosophical discussion
+but for the most part don't like small talk [2].  I've started reading more, an long-time dream of mine, though I still
+often trust friends who are more bookworms than I am to fill me in on what they're learning.
+
+### Organizing and activism
+
+Primarily, I am a member-organizer with the Seattle chapter of [Resource Generation](http://resourcegeneration.org/).  I
+grew up with some wealth privilege and quite a bit of class privilege, and I'm excited to be working with others of
+similar backgrounds to develop skills and community around leveraging wealth and class privilege for economic and racial
+justice.  I also organize with [CARW](https://carw.org/).
 
 ### Research Interests
 
