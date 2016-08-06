@@ -5,6 +5,8 @@ title: "This Snickers Bar"
 This Snickers Bar
 ===
 
+*Isaac Hollander McCreery, 5 August 2016*
+
 This is not food.  
 It’s an engineered gustatory experience.
 
