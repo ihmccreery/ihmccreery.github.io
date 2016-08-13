@@ -8,7 +8,7 @@ Adventure
 *Isaac Hollander McCreery, 12 August 2016*
 
 I want to go on an adventure today,  
-Far-out and fast  
+Far out and fast  
 Past the moon, around the sun,  
 And past the speed of light.
 
