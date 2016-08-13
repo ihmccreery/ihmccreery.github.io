@@ -1,8 +1,8 @@
 ---
-title: "A Dating Service for Radical Rich Kids: Reflections on Organizing an Ally Community I Love"
+title: "A Dating Service for Radical Rich Kids: Reflections on Organizing a Solidarity Community I Love"
 ---
 
-A Dating Service for Radical Rich Kids: Reflections on Organizing an Ally Community I Love
+A Dating Service for Radical Rich Kids: Reflections on Organizing a Solidarity Community I Love
 ===
 
 *Isaac Hollander McCreery, 12 August 2016*
