@@ -35,7 +35,6 @@ LOVE HARD
 
 Love hard, that’s it!  
 With my backpack as my captain  
-And my books as my only battalion  
-Loving hard is what’s important.  
+And my books as my only battalion,  
 Today is a day  
 To love hard.
