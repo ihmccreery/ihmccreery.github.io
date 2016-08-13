@@ -25,9 +25,11 @@ Around the block
 Through alleys  
 Past dumpsters that sing wisdom.
 
-FUCKS
+FINALLY: THE BLOSSOMS BLOOM BACK AT YOU
 
 SHED IT
+
+FUCKS
 
 LOVE HARD
 
