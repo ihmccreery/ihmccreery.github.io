@@ -1,9 +1,11 @@
 ---
-title: “Lady Autumn’s Auburn Blush”
+title: "Lady Autumn’s Auburn Blush"
 ---
 
 Lady Autumn’s Auburn Blush
 ===
+
+*Isaac Hollander McCreery, 2 September 2016*
 
 I’m surprised at the comfort you bring to me.  
 When I first slept beside you, it felt pleasant:  
