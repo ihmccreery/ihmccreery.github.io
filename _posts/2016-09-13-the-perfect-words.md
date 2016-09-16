@@ -23,8 +23,8 @@ Love is a body
 It requires constant care, the  
 Daily practice of  
 Shaping and reshaping  
-I love you
+"I love you"
 
 Not of perfecting  
 But of growing  
-Forever.
+Forever
