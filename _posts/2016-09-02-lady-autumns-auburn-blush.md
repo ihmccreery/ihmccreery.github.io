@@ -33,4 +33,5 @@ Summer’s sunny skin must cede
 To Lady Autumn’s auburn blush.
 
 A farewell to you feels like a farewell to summer,  
-The end of a time, a sweet, tender time.
+The end of a time,  
+A sweet, tender time.
