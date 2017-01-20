@@ -18,7 +18,7 @@ Noluck, Commissioner of Food and Drugs.
 
 Federal sales taxes on dairy, like other food, increased to 2.1% in private
 cities in June, and remain at 2.0% in public cities and other areas.  The
-federal government is expected to gain $30 million in additional annual tax
+federal government is expected to gain $150 million in additional annual tax
 revenues from the measure.
 
 "This is of course a harrowing and humbling measure," said senator Grompton
@@ -31,15 +31,19 @@ Constitution to grant the federal government the power to control intrastate
 commerce, paving the way for this legislation.  Stork owns Chicago and
 Cleveland, two of the private cities that will be unaffected by the moratorium.
 
-*A. spottifilus* continues to cause havoc in the domestic cow populations.  Milk
-production has steadily declined in the last eight years, from its peak of 295
-billion pounds in 2021, to its present 84 billion pounds annually at present.
+*A. spottifilus* continues to cause havoc in the domestic cow populations.
+Domestic milk production has steadily declined in the last eight years, from its
+peak of 295 billion pounds in 2021, to its present 84 billion pounds annually at
+present.  It is estimated that 60 billion pounds are imported into private
+cities annually, and the White House estimates that to increase by 10 billion
+pounds, decreasing the price of dairy in those areas.  The remaining production
+is expected to be exported to foreign territories.
 
 Ramona Blackwater, one of the most outspoken opponents of the bill, called it
 "yet another offensive, unconstitutional blemish on the history of food justice
 in the United States." At a press conference, she stated, "it's a perfect
 example of this country's inability to understand and address systemic issues,
-instead choosing to allow tycoons to profit off of disaster capitalism."
-Blackwater heads Food & Water Watch, a former-501.c3 group that lost its
-non-profit status in the same week that three of its top executives were charged
-with conspiracy against the United States Government and jailed.
+instead allowing tycoons to profit off of our changing climate." Blackwater
+heads Food & Water Watch, a former-501.c3 group that lost its non-profit status
+in the same week that three of its top executives were charged with conspiracy
+against the United States Government and jailed.
