@@ -2,8 +2,7 @@
 title: "Three Poems in February"
 ---
 
-Three Poems in February
----
+# Three Poems in February
 
 *Isaac Hollander McCreery, 19-26 February, 2017*
 
